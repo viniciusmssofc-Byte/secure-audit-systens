@@ -1,4 +1,4 @@
-# Secure Audit System 🔒📊
+# Secure Audit Systens 🔒📊
 
 Este projeto consiste em um **Sistema Automatizado de Auditoria Financeira e Gerenciamento Orçamentário** desenvolvido em Python. Ele foi projetado para ler registros de colaboradores de arquivos externos, validar a integridade dos setores operacionais e aplicar camadas de controle de acesso (autenticação de segurança) antes de permitir modificações na matriz do sistema.
 
